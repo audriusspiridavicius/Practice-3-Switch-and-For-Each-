@@ -1,0 +1,6 @@
+{
+  "Name": "SwitchAndForEachPractice3",
+  "ProjectType": "Process",
+  "Description": "Separate a collection of error codes using Switch",
+  "MainFile": "Main.xaml"
+}
